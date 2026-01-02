@@ -1,0 +1,305 @@
+{
+  "attempt_id": "51bbd9a2-b374-47cf-b886-cc5a630f970e",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the print function in Python used for?",
+      "options": [
+        "To get user input",
+        "To perform arithmetic operations",
+        "To output text to the screen",
+        "To declare variables"
+      ],
+      "correct_index": 2,
+      "selected_index": 2,
+      "is_correct": true,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "What type of data structure is a list in Python?",
+      "options": [
+        "Array",
+        "Linked List",
+        "Stack",
+        "Dynamic Array"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "What is the correct syntax to comment a line in Python?",
+      "options": [
+        "//",
+        "#",
+        "--",
+        "::"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "What is the recommended way to name variables in Python?",
+      "options": [
+        "Using uppercase letters",
+        "Using numbers as the first character",
+        "Using lowercase letters with underscores",
+        "Using special characters"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "What is the time complexity of the linear search algorithm?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n^2)"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "What is the purpose of the `import` statement in Python?",
+      "options": [
+        "To create a new module",
+        "To import a module",
+        "To define a function",
+        "To declare a variable"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "What is the difference between a list and a tuple in Python?",
+      "options": [
+        "Lists are mutable, tuples are immutable",
+        "Lists are immutable, tuples are mutable",
+        "Lists are used for strings, tuples are used for numbers",
+        "Lists are used for numbers, tuples are used for strings"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "What is the correct syntax to define a function in Python?",
+      "options": [
+        "def function_name()",
+        "function function_name()",
+        "func function_name()",
+        "define function_name()"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "What is the recommended way to handle errors in Python?",
+      "options": [
+        "Using try-except blocks",
+        "Using if-else statements",
+        "Using loops",
+        "Using functions"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "What is the purpose of the `sort()` function in Python?",
+      "options": [
+        "To find the minimum value in a list",
+        "To find the maximum value in a list",
+        "To sort a list in ascending order",
+        "To reverse a list"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "What is the data type of the variable `x` in the statement `x = 5`?",
+      "options": [
+        "Integer",
+        "Float",
+        "String",
+        "Boolean"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "What is the purpose of the `append()` method in Python?",
+      "options": [
+        "To add an element to the beginning of a list",
+        "To add an element to the end of a list",
+        "To remove an element from a list",
+        "To sort a list"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "What is the correct syntax to define a dictionary in Python?",
+      "options": [
+        "dict = {}",
+        "dict = []",
+        "dict =()",
+        "dict = <>"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "What is the recommended way to write a docstring in Python?",
+      "options": [
+        "Using triple quotes",
+        "Using single quotes",
+        "Using double quotes",
+        "Using comments"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "What is the purpose of the `range()` function in Python?",
+      "options": [
+        "To generate a list of numbers",
+        "To generate a list of strings",
+        "To generate a list of booleans",
+        "To generate a list of dictionaries"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "What is the purpose of the `len()` function in Python?",
+      "options": [
+        "To get the length of a string",
+        "To get the length of a list",
+        "To get the length of a dictionary",
+        "To get the length of all of the above"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "What is the purpose of the `keys()` method in Python?",
+      "options": [
+        "To get the keys of a dictionary",
+        "To get the values of a dictionary",
+        "To get the items of a dictionary",
+        "To get the length of a dictionary"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "What is the correct syntax to use an f-string in Python?",
+      "options": [
+        "Using single quotes",
+        "Using double quotes",
+        "Using backticks",
+        "Using the `f` prefix"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "What is the recommended way to write a conditional statement in Python?",
+      "options": [
+        "Using `if` and `else` statements",
+        "Using `switch` statements",
+        "Using `try` and `except` blocks",
+        "Using `for` loops"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "What is the purpose of the `enumerate()` function in Python?",
+      "options": [
+        "To iterate over a list with indices",
+        "To iterate over a list without indices",
+        "To sort a list",
+        "To reverse a list"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    }
+  ]
+}

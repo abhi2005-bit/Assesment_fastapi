@@ -1,0 +1,290 @@
+{
+  "attempt_id": "4311c485-cf18-4734-9324-9585b5d1d63c",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What data type would Python assign to the variable `count` if it's initialized as `count = 100`?",
+      "options": [
+        "float",
+        "int",
+        "str",
+        "bool"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (int)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "Which built-in function is used to display output on the console in Python?",
+      "options": [
+        "display()",
+        "output()",
+        "print()",
+        "show()"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input/output with print()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "What is the result of the Python expression `5 + 4 * 2`?",
+      "options": [
+        "18",
+        "13",
+        "10",
+        "14"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (+, *)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "Given the string `city = \"London\"`, what will `len(city)` return?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "Which of the following correctly creates an empty list in Python?",
+      "options": [
+        "my_list = {}",
+        "my_list = ()",
+        "my_list = []",
+        "my_list = \"\""
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: creation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "Which keyword is used to begin an `if` condition block in Python?",
+      "options": [
+        "check",
+        "when",
+        "if",
+        "condition"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Conditional statements (if)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "Which operator is used to check if two values are equal in Python?",
+      "options": [
+        "=",
+        "!=",
+        "==",
+        "<>"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comparison operators (==)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "Which type of loop in Python is typically used for iterating over items in a sequence?",
+      "options": [
+        "do-while loop",
+        "while loop",
+        "for loop",
+        "repeat loop"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (for)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "What keyword is used to define a new function in Python?",
+      "options": [
+        "func",
+        "define",
+        "function",
+        "def"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: definition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "In Python error handling, which block of code encloses the statements that might cause an error?",
+      "options": [
+        "except block",
+        "finally block",
+        "try block",
+        "raise block"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic error handling with try/except",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "What is the data type of `message` when assigned `message = \"Hello World\"`?",
+      "options": [
+        "int",
+        "float",
+        "str",
+        "bool"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (str)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "What is the result of the integer division `20 // 6` in Python?",
+      "options": [
+        "3.33",
+        "3",
+        "2",
+        "4"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (//)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "By default, the `input()` function in Python always returns user input as what data type?",
+      "options": [
+        "integer",
+        "float",
+        "string",
+        "boolean"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input/output with input()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "Given `text = \"Python\"`, what is the character accessed by `text[0]`?",
+      "options": [
+        "'P'",
+        "'y'",
+        "'n'",
+        "An error"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: indexing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "Which method is used to add a new element to the end of an existing Python list?",
+      "options": [
+        "insert()",
+        "add()",
+        "extend()",
+        "append()"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: append",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "What is the boolean result of the expression `(False or True)` in Python?",
+      "options": [
+        "True",
+        "False",
+        "None",
+        "Error"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Logical operators (or)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "A `while` loop in Python will continue to execute its code block as long as its specified condition remains what?",
+      "options": [
+        "False",
+        "True",
+        "None",
+        "Undefined"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (while)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "In a Python function, which keyword is used to send a value back to the calling part of the program?",
+      "options": [
+        "output",
+        "yield",
+        "send",
+        "return"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: return",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "Which of the following is a valid boolean literal in Python?",
+      "options": [
+        "true",
+        "false",
+        "True",
+        "0"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (bool)",
+      "difficulty": "easy"
+    }
+  ]
+}

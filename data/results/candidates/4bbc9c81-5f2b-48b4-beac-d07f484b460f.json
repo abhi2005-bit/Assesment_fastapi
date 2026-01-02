@@ -1,0 +1,18 @@
+{
+  "attempt_id": "4bbc9c81-5f2b-48b4-beac-d07f484b460f",
+  "created_at": "2026-01-02T13:13:50",
+  "finalized_reason": "manual_submit",
+  "candidate": {
+    "name": "ASAs",
+    "branch": "ASa",
+    "passing_year": 2025,
+    "university": "ASas",
+    "programming_language": "Python",
+    "difficulty": "Easy",
+    "assessment_type": "MCQ only"
+  },
+  "test_config": {
+    "total_questions": 20,
+    "duration_seconds": 1200
+  }
+}

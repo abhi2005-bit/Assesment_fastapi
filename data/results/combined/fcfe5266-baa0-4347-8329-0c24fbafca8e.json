@@ -1,0 +1,327 @@
+{
+  "attempt_id": "fcfe5266-baa0-4347-8329-0c24fbafca8e",
+  "created_at": "2026-01-02T18:52:17",
+  "finalized_reason": "manual_submit",
+  "candidate": {
+    "name": "asd",
+    "branch": "asd",
+    "passing_year": 2025,
+    "university": "asd",
+    "programming_language": "Python",
+    "difficulty": "Easy",
+    "assessment_type": "MCQ only"
+  },
+  "test_config": {
+    "total_questions": 20,
+    "duration_seconds": 1200
+  },
+  "metrics": {
+    "total_questions": 20,
+    "correct": 1,
+    "incorrect": 19,
+    "percentage": 5.0,
+    "time_taken_seconds": 102
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the purpose of the `print()` function in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To output text to the screen",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "What is the syntax for printing a string in Python?",
+      "options": [
+        "print (string)",
+        "string = print ()",
+        "print (string)",
+        "print (string)"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "What is the `len()` function used for in Python?",
+      "options": [
+        "To check if a variable is empty",
+        "To get the length of a string",
+        "To assign a value to a variable",
+        "To input data from the user"
+      ],
+      "correct_index": 1,
+      "selected_index": 2,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "What is the purpose of a list in Python?",
+      "options": [
+        "To store a collection of numbers",
+        "To store a collection of strings",
+        "To store a collection of variables",
+        "To store a collection of data"
+      ],
+      "correct_index": 0,
+      "selected_index": 0,
+      "is_correct": true,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "What is the `if` statement used for in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To check a condition and execute code if true",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "What is the purpose of the `for` loop in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To iterate over a collection of data",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "What is the `while` loop used for in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To execute code as long as a condition is true",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "What is the purpose of a dictionary in Python?",
+      "options": [
+        "To store a collection of numbers",
+        "To store a collection of strings",
+        "To store a collection of key-value pairs",
+        "To store a collection of variables"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "What is the `range()` function used for in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To generate a sequence of numbers",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "What is the purpose of the `sort()` method in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To sort a collection of data in ascending order",
+        "To input data from the user"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "What is the `try`-`except` block used for in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To catch and handle exceptions",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "What is the purpose of a set in Python?",
+      "options": [
+        "To store a collection of numbers",
+        "To store a collection of strings",
+        "To store a collection of unique values",
+        "To store a collection of variables"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "What is the `import` statement used for in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To import modules and libraries",
+        "To input data from the user"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "What is the purpose of the `enumerate()` function in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To iterate over a collection of data with index",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "What is the `None` keyword used for in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To represent the absence of a value",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "What is the purpose of a tuple in Python?",
+      "options": [
+        "To store a collection of numbers",
+        "To store a collection of strings",
+        "To store a collection of immutable data",
+        "To store a collection of variables"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "What is the `global` keyword used for in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To modify a global variable",
+        "To input data from the user"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "What is the purpose of the `map()` function in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To apply a function to a collection of data",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "What is the `lambda` keyword used for in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To define a small anonymous function",
+        "To input data from the user"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "What is the purpose of the `PEP 8` style guide in Python?",
+      "options": [
+        "To define a variable",
+        "To assign a value to a variable",
+        "To follow a standard coding style",
+        "To input data from the user"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    }
+  ]
+}

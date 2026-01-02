@@ -1,0 +1,290 @@
+{
+  "attempt_id": "81b4ffd5-37a9-43aa-ac97-64863725f5f2",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the correct way to assign the integer value `100` to a variable named `score` in Python?",
+      "options": [
+        "score = 100",
+        "int score = 100",
+        "score := 100",
+        "set score = 100"
+      ],
+      "correct_index": 0,
+      "selected_index": 3,
+      "is_correct": false,
+      "topic": "Variables and data types (int)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "What data type would Python typically assign to the value `\"hello\"`?",
+      "options": [
+        "string",
+        "char",
+        "text",
+        "bool"
+      ],
+      "correct_index": 0,
+      "selected_index": 2,
+      "is_correct": false,
+      "topic": "Variables and data types (str, bool)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "What is the result of the expression `15 // 4` in Python?",
+      "options": [
+        "3",
+        "3.75",
+        "4",
+        "3.0"
+      ],
+      "correct_index": 0,
+      "selected_index": 1,
+      "is_correct": false,
+      "topic": "Basic operators (//)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "Evaluate the Python expression `5 * 2 + 8 / 4`.",
+      "options": [
+        "12.0",
+        "12",
+        "14.0",
+        "10.5"
+      ],
+      "correct_index": 0,
+      "selected_index": 2,
+      "is_correct": false,
+      "topic": "Basic operators (+, *, /)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "Which built-in function is primarily used to display output to the console in Python?",
+      "options": [
+        "print()",
+        "display()",
+        "output()",
+        "show()"
+      ],
+      "correct_index": 0,
+      "selected_index": 1,
+      "is_correct": false,
+      "topic": "Input/output with print()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "The `input()` function in Python always returns a value of which data type by default?",
+      "options": [
+        "string",
+        "integer",
+        "float",
+        "boolean"
+      ],
+      "correct_index": 0,
+      "selected_index": 1,
+      "is_correct": false,
+      "topic": "Input/output with input()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "How do you indicate a single-line comment in Python?",
+      "options": [
+        "# This is a comment",
+        "// This is a comment",
+        "/* This is a comment */",
+        "-- This is a comment"
+      ],
+      "correct_index": 0,
+      "selected_index": 2,
+      "is_correct": false,
+      "topic": "Comments and basic syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "Which of the following lines represents a syntax error due to incorrect indentation?",
+      "options": [
+        "  print('Hello')",
+        "if True:\nprint('Hello')",
+        "if True:\n  print('Hello')",
+        "def func():\n  pass"
+      ],
+      "correct_index": 1,
+      "selected_index": 2,
+      "is_correct": false,
+      "topic": "Comments and basic syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "Given the string `word = \"Python\"`, what is the character returned by `word[0]`?",
+      "options": [
+        "'P'",
+        "'y'",
+        "'o'",
+        "Error"
+      ],
+      "correct_index": 0,
+      "selected_index": 2,
+      "is_correct": false,
+      "topic": "Strings: indexing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "What will `len(\"developer\")` return in Python?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "Error"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following correctly creates an empty list in Python?",
+      "options": [
+        "my_list = []",
+        "my_list = {}",
+        "my_list = ()",
+        "list my_list;"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: creation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "What method would you use to add the element `5` to the end of an existing list named `my_list`?",
+      "options": [
+        "my_list.append(5)",
+        "my_list.add(5)",
+        "my_list.insert_end(5)",
+        "my_list.push(5)"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: append",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "What is the result of `print(10 > 5 and 7 < 3)` in Python?",
+      "options": [
+        "False",
+        "True",
+        "Error",
+        "None"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comparison and logical operators",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "Consider the following code snippet:\npython\nspam = 5\nif spam > 10:\n    print(\"High\")\nelse:\n    print(\"Low\")\n\nWhat will be printed?",
+      "options": [
+        "Low",
+        "High",
+        "Error",
+        "None"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Conditional statements (if, else)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "Which keyword is typically used to start a loop that iterates over a sequence (like a list or string) in Python?",
+      "options": [
+        "for",
+        "while",
+        "loop",
+        "iterate"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (for)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "How many times will \"Hello\" be printed by the following code?\npython\ncount = 0\nwhile count < 3:\n    print(\"Hello\")\n    count += 1\n",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (while)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "What is the primary purpose of the `return` statement within a Python function?",
+      "options": [
+        "To send a value back to the caller of the function",
+        "To print a value to the console",
+        "To stop the program execution",
+        "To define a new variable"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: return",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "Given the function definition `def greet(name):`, what is `name` in this context?",
+      "options": [
+        "A parameter",
+        "A variable declaration",
+        "A return value",
+        "A global variable"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: parameters",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "In Python error handling, which block of code contains statements that might raise an exception and should be monitored?",
+      "options": [
+        "try",
+        "except",
+        "finally",
+        "check"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic error handling with try/except",
+      "difficulty": "easy"
+    }
+  ]
+}

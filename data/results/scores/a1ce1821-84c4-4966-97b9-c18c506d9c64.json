@@ -1,0 +1,12 @@
+{
+  "attempt_id": "a1ce1821-84c4-4966-97b9-c18c506d9c64",
+  "created_at": "2026-01-02T12:52:31",
+  "finalized_reason": "completed",
+  "metrics": {
+    "total_questions": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "percentage": 0.0,
+    "time_taken_seconds": 25
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "attempt_id": "92f495b4-950c-4bcf-916d-96a097e7ce8d",
+  "created_at": "2026-01-02T11:35:31",
+  "finalized_reason": "manual_submit",
+  "candidate": {
+    "name": "kamlesh pawar",
+    "branch": "btech cse",
+    "passing_year": 2025,
+    "university": "ADYPU",
+    "programming_language": "Python",
+    "difficulty": "Easy",
+    "assessment_type": "MCQ only"
+  },
+  "test_config": {
+    "total_questions": 20,
+    "duration_seconds": 1200
+  }
+}

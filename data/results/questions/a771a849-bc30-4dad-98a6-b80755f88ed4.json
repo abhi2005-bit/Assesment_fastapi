@@ -1,0 +1,305 @@
+{
+  "attempt_id": "a771a849-bc30-4dad-98a6-b80755f88ed4",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the print function in Python used for?",
+      "options": [
+        "To get user input",
+        "To display output",
+        "To import modules",
+        "To define functions"
+      ],
+      "correct_index": 1,
+      "selected_index": 2,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "What type of data structure is a list in Python?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Array",
+        "Linked List"
+      ],
+      "correct_index": 2,
+      "selected_index": 0,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "What is the correct syntax for a for loop in Python?",
+      "options": [
+        "for i in range(10) {",
+        "for i in range(10):",
+        "for (i = 0; i < 10; i++)",
+        "while i < 10:"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "What is the recommended way to write a docstring in Python?",
+      "options": [
+        "Using single quotes",
+        "Using double quotes",
+        "Using triple quotes",
+        "Using backticks"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "What is the time complexity of a linear search algorithm?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n^2)"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "What is the purpose of the `import` statement in Python?",
+      "options": [
+        "To create a new module",
+        "To import a module",
+        "To define a function",
+        "To declare a variable"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "What is the difference between a tuple and a list in Python?",
+      "options": [
+        "A tuple is mutable, a list is immutable",
+        "A tuple is immutable, a list is mutable",
+        "A tuple is a set, a list is a dictionary",
+        "A tuple is a dictionary, a list is a set"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "What is the correct syntax for a conditional statement in Python?",
+      "options": [
+        "if (condition) {",
+        "if condition:",
+        "if condition then",
+        "if condition do"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "What is the recommended way to handle errors in Python?",
+      "options": [
+        "Using try-except blocks",
+        "Using if-else statements",
+        "Using loops",
+        "Using functions"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "What is the purpose of the `sorted` function in Python?",
+      "options": [
+        "To sort a list in ascending order",
+        "To sort a list in descending order",
+        "To reverse a list",
+        "To shuffle a list"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "What is the purpose of the `len` function in Python?",
+      "options": [
+        "To get the length of a string",
+        "To get the length of a list",
+        "To get the length of a dictionary",
+        "To get the length of all of the above"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "What is a dictionary in Python?",
+      "options": [
+        "A collection of key-value pairs",
+        "A collection of unique values",
+        "A collection of ordered values",
+        "A collection of unordered values"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "What is the correct syntax for a function definition in Python?",
+      "options": [
+        "def function_name(",
+        "function function_name(",
+        "func function_name(",
+        "function_name = lambda:"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "What is the recommended way to write a comment in Python?",
+      "options": [
+        "Using the `#` symbol",
+        "Using the `//` symbol",
+        "Using the `/* */` symbol",
+        "Using the `'''` symbol"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "What is the purpose of the `range` function in Python?",
+      "options": [
+        "To generate a sequence of numbers",
+        "To generate a sequence of characters",
+        "To generate a sequence of strings",
+        "To generate a sequence of lists"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "What is the purpose of the `input` function in Python?",
+      "options": [
+        "To get user input",
+        "To display output",
+        "To import modules",
+        "To define functions"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "What is a set in Python?",
+      "options": [
+        "A collection of unique values",
+        "A collection of ordered values",
+        "A collection of unordered values",
+        "A collection of key-value pairs"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "What is the correct syntax for a while loop in Python?",
+      "options": [
+        "while condition {",
+        "while condition:",
+        "while condition then",
+        "while condition do"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "What is the recommended way to use indentation in Python?",
+      "options": [
+        "Using tabs",
+        "Using spaces",
+        "Using both tabs and spaces",
+        "Using no indentation"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "best practices",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "What is the purpose of the `enumerate` function in Python?",
+      "options": [
+        "To iterate over a list with indexes",
+        "To iterate over a list without indexes",
+        "To generate a sequence of numbers",
+        "To generate a sequence of characters"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "easy"
+    }
+  ]
+}

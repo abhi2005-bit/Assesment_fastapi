@@ -1,0 +1,327 @@
+{
+  "attempt_id": "7e51b507-1ffb-4a6b-94a0-f93bde15fdf2",
+  "created_at": "2026-01-02T12:00:17",
+  "finalized_reason": "manual_submit",
+  "candidate": {
+    "name": "asd",
+    "branch": "asd",
+    "passing_year": 2025,
+    "university": "asd",
+    "programming_language": "Python",
+    "difficulty": "Easy",
+    "assessment_type": "MCQ only"
+  },
+  "test_config": {
+    "total_questions": 20,
+    "duration_seconds": 1200
+  },
+  "metrics": {
+    "total_questions": 20,
+    "correct": 1,
+    "incorrect": 19,
+    "percentage": 5.0,
+    "time_taken_seconds": 28
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How do you assign the integer value 10 to a variable named `score` in Python?",
+      "options": [
+        "score = 10",
+        "score := 10",
+        "int score = 10",
+        "10 = score"
+      ],
+      "correct_index": 0,
+      "selected_index": 0,
+      "is_correct": true,
+      "topic": "Variables and data types (int)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is a valid way to create a float variable `price` with the value 19.99?",
+      "options": [
+        "price = 19.99",
+        "price = \"19.99\"",
+        "float price = 19.99",
+        "price = 19,99"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (float)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "Which line correctly assigns the string \"Hello\" to a variable called `message`?",
+      "options": [
+        "message = \"Hello\"",
+        "message := \"Hello\"",
+        "str message = \"Hello\"",
+        "message = Hello"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (str)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "To set a boolean variable `is_active` to represent a true state, which assignment is correct in Python?",
+      "options": [
+        "is_active = True",
+        "is_active = \"True\"",
+        "is_active = 1",
+        "is_active = true"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (bool)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "What is the result of the Python expression `15 % 4`?",
+      "options": [
+        "3",
+        "3.75",
+        "1",
+        "0"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (%, //, **)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "Evaluate the expression `10 // 3` in Python.",
+      "options": [
+        "3",
+        "3.33",
+        "1",
+        "4"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (%, //, **)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "What will be the output of `2 ** 3` in Python?",
+      "options": [
+        "8",
+        "6",
+        "9",
+        "5"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (%, //, **)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "How would you print the phrase \"Hello, World!\" to the console in Python?",
+      "options": [
+        "print(\"Hello, World!\")",
+        "console.log(\"Hello, World!\")",
+        "display \"Hello, World!\"",
+        "write(\"Hello, World!\")"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input/output with print() and input()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "What data type does the `input()` function always return in Python, regardless of user input?",
+      "options": [
+        "str (string)",
+        "int (integer)",
+        "float (floating-point number)",
+        "bool (boolean)"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input/output with print() and input()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "Which character is used to denote a single-line comment in Python?",
+      "options": [
+        "#",
+        "//",
+        "--",
+        "/*"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comments and basic syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "What is the length of the string \"Python\" when `len()` is applied to it?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "0"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: indexing, slicing, len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "Given the string `s = \"Apple\"`, what does the expression `s[0]` return?",
+      "options": [
+        "'A'",
+        "'p'",
+        "'e'",
+        "Error"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: indexing, slicing, len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "Which syntax correctly creates an empty list named `my_list` in Python?",
+      "options": [
+        "my_list = []",
+        "my_list = {}",
+        "my_list = ()",
+        "list my_list;"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: creation, indexing, append, len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "If `items = [1, 2]`, what will the `items` list contain after `items.append(3)` is executed?",
+      "options": [
+        "[1, 2, 3]",
+        "[1, 3]",
+        "[3, 1, 2]",
+        "Error"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: creation, indexing, append, len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "What is the primary purpose of an `if` statement in Python?",
+      "options": [
+        "To execute a block of code only if a condition is true",
+        "To define a new function",
+        "To create a loop that runs indefinitely",
+        "To handle syntax errors during compilation"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Conditional statements (if, elif, else)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "Which logical operator returns `True` if and only if both of its operands are true?",
+      "options": [
+        "and",
+        "or",
+        "not",
+        "xor"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comparison and logical operators",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "How many times will the `print()` statement execute in the following Python loop? `for i in range(3): print(\"Hello\")`",
+      "options": [
+        "3",
+        "4",
+        "0",
+        "1"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (for, while)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "A `while` loop in Python continues to execute its block of code as long as its condition evaluates to what value?",
+      "options": [
+        "True",
+        "False",
+        "None",
+        "0"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (for, while)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "Which keyword is used to define a new function in Python?",
+      "options": [
+        "def",
+        "function",
+        "func",
+        "define"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: definition, parameters, return",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "What is the primary purpose of a `try-except` block in Python?",
+      "options": [
+        "To gracefully handle runtime errors and exceptions",
+        "To define conditional logic based on multiple possibilities",
+        "To create iterative loops for repeating code blocks",
+        "To declare variables with specific data types"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic error handling with try/except",
+      "difficulty": "easy"
+    }
+  ]
+}

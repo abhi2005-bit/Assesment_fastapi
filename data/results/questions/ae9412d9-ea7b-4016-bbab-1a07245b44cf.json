@@ -1,0 +1,305 @@
+{
+  "attempt_id": "ae9412d9-ea7b-4016-bbab-1a07245b44cf",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In Python, which keyword is commonly used to define a function?",
+      "options": [
+        "def",
+        "func",
+        "function",
+        "lambda"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "Which data structure is typically used for key-value mapping?",
+      "options": [
+        "List",
+        "Dictionary/Map",
+        "Tuple",
+        "Set"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "types",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "Which operator is commonly used for equality comparison?",
+      "options": [
+        "=",
+        "==",
+        "!=",
+        ">>"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "basics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "Which loop is typically used when you know the number of iterations in advance?",
+      "options": [
+        "for",
+        "while",
+        "do-while",
+        "foreach-only"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "control_flow",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "Which data structure does NOT allow duplicate elements?",
+      "options": [
+        "List",
+        "Array",
+        "Set",
+        "String"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "data_structures",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "Which SQL clause is used to filter rows?",
+      "options": [
+        "WHERE",
+        "GROUP BY",
+        "ORDER BY",
+        "JOIN"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "databases",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "Encapsulation primarily means:",
+      "options": [
+        "Hiding internal state and requiring all interaction through methods",
+        "Using multiple inheritance",
+        "Writing code without classes",
+        "Storing data only in global variables"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "oop",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "Which is typically the FIRST step in debugging a failing program?",
+      "options": [
+        "Rewrite the whole code",
+        "Reproduce the issue consistently",
+        "Deploy to production",
+        "Disable all logs"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "debugging",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "HTTP is primarily a:",
+      "options": [
+        "Programming language",
+        "Network protocol",
+        "Database",
+        "Operating system"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "networks",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "Git is primarily used for:",
+      "options": [
+        "Image editing",
+        "Version control",
+        "Database indexing",
+        "Email automation"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "version_control",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "What is the average time complexity of hash table lookup?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "complexity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q4",
+      "question": "What does OOP stand for?",
+      "options": [
+        "Object-Oriented Programming",
+        "Order of Operations Processing",
+        "Open Operation Protocol",
+        "Object-Optional Pattern"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "oop",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q5",
+      "question": "Which algorithm is best suited for finding the shortest path in a weighted graph with non-negative weights?",
+      "options": [
+        "DFS",
+        "BFS",
+        "Dijkstra",
+        "Kruskal"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q9",
+      "question": "What is the typical time complexity of accessing a character by index in a string?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "strings",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q10",
+      "question": "Which sorting algorithm is generally NOT stable in its classic in-place form?",
+      "options": [
+        "Merge sort",
+        "Bubble sort",
+        "Insertion sort",
+        "Quick sort"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q11",
+      "question": "Binary search requires the input array/list to be:",
+      "options": [
+        "Sorted",
+        "Reversed",
+        "Unique",
+        "Random"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "algorithms",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q12",
+      "question": "What is the time complexity of iterating over an array of size n once?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n^2)"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "complexity",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q14",
+      "question": "Which SQL statement is used to remove rows from a table?",
+      "options": [
+        "DROP",
+        "DELETE",
+        "REMOVE",
+        "TRUNCATE"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "databases",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q16",
+      "question": "Polymorphism allows:",
+      "options": [
+        "Objects to take multiple forms through a common interface",
+        "A program to run without memory",
+        "Only one method name per class",
+        "Replacing variables with constants"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "oop",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q18",
+      "question": "Which practice helps protect user passwords?",
+      "options": [
+        "Store in plain text",
+        "Encrypt with reversible key",
+        "Hash with salt",
+        "Email passwords to users"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "security",
+      "difficulty": "medium"
+    }
+  ]
+}

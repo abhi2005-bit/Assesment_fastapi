@@ -1,0 +1,327 @@
+{
+  "attempt_id": "ee0fae3c-7869-4993-bd09-3bca478f20d8",
+  "created_at": "2025-12-31T18:44:41",
+  "finalized_reason": "completed",
+  "candidate": {
+    "name": "asd",
+    "branch": "asd",
+    "passing_year": 2025,
+    "university": "asd",
+    "programming_language": "Python",
+    "difficulty": "Easy",
+    "assessment_type": "MCQ only"
+  },
+  "test_config": {
+    "total_questions": 20,
+    "duration_seconds": 1200
+  },
+  "metrics": {
+    "total_questions": 20,
+    "correct": 0,
+    "incorrect": 20,
+    "percentage": 0.0,
+    "time_taken_seconds": 40
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following is the correct way to assign the integer value 10 to a variable named `score` in Python?",
+      "options": [
+        "score = 10",
+        "int score = 10",
+        "score := 10",
+        "assign score = 10"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and Assignment",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "In Python, which numerical data type represents whole numbers without a decimal point?",
+      "options": [
+        "float",
+        "string",
+        "integer",
+        "boolean"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Data Types - Integer",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "Which pair of characters is commonly used to enclose a sequence of characters to define a string literal in Python?",
+      "options": [
+        "()",
+        "{}",
+        "[]",
+        "\"\" (double quotes)"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Data Types - String",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "What are the two built-in boolean literal values in Python, representing truth and falsehood?",
+      "options": [
+        "yes, no",
+        "1, 0",
+        "True, False",
+        "on, off"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Data Types - Boolean",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "Which operator is used to perform addition between two numerical values in Python?",
+      "options": [
+        "-",
+        "*",
+        "+",
+        "/"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Arithmetic Operators - Addition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "What will be the result of the Python expression `5 * 2`?",
+      "options": [
+        "7",
+        "10",
+        "25",
+        "52"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Arithmetic Operators - Multiplication",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "Which character is used to denote the start of a single-line comment in Python, making the interpreter ignore the rest of the line?",
+      "options": [
+        "//",
+        "/*",
+        "#",
+        "--"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comments",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "Which built-in function is used to display output to the console in Python?",
+      "options": [
+        "console.log()",
+        "display()",
+        "print()",
+        "show()"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Print Function",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "To obtain a line of text input from the user via the console, which built-in Python function would you typically use?",
+      "options": [
+        "get_text()",
+        "input()",
+        "read_line()",
+        "user_prompt()"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input Function",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "In Python, what operator is commonly used to join two or more strings together to form a single string?",
+      "options": [
+        "&",
+        "+",
+        "*",
+        "%"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "String Concatenation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "Which keyword begins a conditional block of code in Python that executes only if its accompanying expression evaluates to `True`?",
+      "options": [
+        "else",
+        "if",
+        "for",
+        "while"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Conditional Statements - if",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "After an `if` statement in Python, which keyword allows for a block of code to be executed when the `if` condition is `False`?",
+      "options": [
+        "otherwise",
+        "except",
+        "elif",
+        "else"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Conditional Statements - else",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "Which operator is used to check if two values are equal in Python?",
+      "options": [
+        "=",
+        "==",
+        "!=",
+        "==="
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comparison Operators - Equality",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "In a Python `if` statement, which keyword would you use to combine two conditions, requiring *both* to be true for the overall condition to be true?",
+      "options": [
+        "or",
+        "not",
+        "both",
+        "and"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Logical Operators - and",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following correctly creates an empty list named `my_list` in Python?",
+      "options": [
+        "my_list = {}",
+        "my_list = ()",
+        "my_list = []",
+        "new list my_list"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists - Creation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "Which method is used to add a single new element to the *end* of an existing Python list?",
+      "options": [
+        "insert()",
+        "add()",
+        "append()",
+        "extend()"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists - Append",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "What is the primary purpose of a `for` loop in Python when used with an iterable like `range(5)`?",
+      "options": [
+        "To define a function",
+        "To execute a block of code a specific number of times",
+        "To check a condition indefinitely",
+        "To declare a variable"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Loops - For Loop",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "Which keyword in Python is used to create a loop that continues to execute its block of code as long as a specified condition remains `True`?",
+      "options": [
+        "for",
+        "if",
+        "loop_if",
+        "while"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Loops - While Loop",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "In Python, which keyword is used to define a new function?",
+      "options": [
+        "func",
+        "define",
+        "def",
+        "function"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions - Definition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "To execute a function named `greet` that takes no arguments, what is the correct syntax for calling it in Python?",
+      "options": [
+        "run greet",
+        "greet.call()",
+        "greet()",
+        "execute(greet)"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions - Calling",
+      "difficulty": "easy"
+    }
+  ]
+}

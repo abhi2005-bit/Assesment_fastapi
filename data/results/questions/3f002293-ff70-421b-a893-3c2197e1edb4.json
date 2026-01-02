@@ -1,0 +1,305 @@
+{
+  "attempt_id": "3f002293-ff70-421b-a893-3c2197e1edb4",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which Python statement correctly assigns an integer value to a variable named `count`?",
+      "options": [
+        "count = 10",
+        "count == 10",
+        "count: int = 10",
+        "int count = 10"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (int)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "What is the data type of the variable `price` after the statement `price = 25.99` is executed?",
+      "options": [
+        "int",
+        "float",
+        "str",
+        "bool"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (float)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "What will be the output of `print(5 + 3)`?",
+      "options": [
+        "8",
+        "53",
+        "Error",
+        "None"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (+)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "Evaluate the expression `15 // 4` in Python.",
+      "options": [
+        "3.75",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (//)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "Which function is used to display output on the console in Python?",
+      "options": [
+        "display()",
+        "output()",
+        "print()",
+        "show()"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input/output with print()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "What is the default data type of the value returned by the `input()` function?",
+      "options": [
+        "int",
+        "float",
+        "str",
+        "bool"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input/output with input()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "How do you add a single-line comment in Python?",
+      "options": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "# This is a comment",
+        "<!-- This is a comment -->"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comments and basic syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "Given `my_string = \"Python\"`, what is `my_string[0]`?",
+      "options": [
+        "\"P\"",
+        "\"y\"",
+        "\"n\"",
+        "Error"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: indexing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "Given `text = \"hello world\"`, what is the result of `text[0:5]`?",
+      "options": [
+        "\"hello\"",
+        "\"world\"",
+        "\"hello \"",
+        "\"hell\""
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: slicing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "What is the output of `len(\"programming\")`?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following is the correct way to create an empty list in Python?",
+      "options": [
+        "my_list = {}",
+        "my_list = []",
+        "my_list = ()",
+        "my_list = new list()"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: creation",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "After `my_list = [1, 2]` and `my_list.append(3)`, what will `my_list` contain?",
+      "options": [
+        "[1, 2]",
+        "[1, 2, 3]",
+        "[3, 1, 2]",
+        "Error"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: append",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "What will be printed by the following code?\npython\nx = 5\nif x > 10:\n    print(\"Greater\")\nelse:\n    print(\"Smaller\")\n",
+      "options": [
+        "\"Greater\"",
+        "\"Smaller\"",
+        "Error",
+        "Nothing"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Conditional statements (if, else)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "What is the result of the expression `(5 > 3) and (10 < 20)`?",
+      "options": [
+        "True",
+        "False",
+        "Error",
+        "None"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comparison and logical operators",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "How many times will the loop below execute?\npython\nfor i in range(3):\n    print(\"Hello\")\n",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (for)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "What will be the output of this code snippet?\npython\ncount = 0\nwhile count < 2:\n    print(count)\n    count += 1\n",
+      "options": [
+        "0\\n1",
+        "0\\n1\\n2",
+        "1\\n2",
+        "Error"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (while)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "Which keyword is used to begin the definition of a Python function?",
+      "options": [
+        "func",
+        "define",
+        "def",
+        "function"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: definition",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "Given `def greet(name):`, what is `name` in this function definition?",
+      "options": [
+        "A return value",
+        "A function call",
+        "A parameter",
+        "A variable declaration"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: parameters",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "What does a function implicitly return if no `return` statement is specified?",
+      "options": [
+        "0",
+        "\"\" (an empty string)",
+        "None",
+        "Error"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: return",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "Which block of code is used to catch and handle exceptions in Python?",
+      "options": [
+        "try/catch",
+        "attempt/handle",
+        "try/except",
+        "do/while"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic error handling with try/except",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "attempt_id": "4ff197a7-4285-4188-acf2-709ab4ce94c0",
+  "created_at": "2025-12-31T19:23:00",
+  "finalized_reason": "completed",
+  "candidate": {
+    "name": "adasd",
+    "branch": "asdasd",
+    "passing_year": 2025,
+    "university": "asd",
+    "programming_language": "Python",
+    "difficulty": "Easy",
+    "assessment_type": "MCQ only"
+  },
+  "test_config": {
+    "total_questions": 20,
+    "duration_seconds": 1200
+  },
+  "metrics": {
+    "total_questions": 20,
+    "correct": 0,
+    "incorrect": 20,
+    "percentage": 0.0,
+    "time_taken_seconds": 39
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following is a valid integer variable assignment in Python?",
+      "options": [
+        "A) x = 10",
+        "B) x = 10.0",
+        "C) x = \"10\"",
+        "D) x = True"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (int, float, str, bool)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "What is the result of the expression `7 // 2` in Python?",
+      "options": [
+        "A) 3.5",
+        "B) 4",
+        "C) 3",
+        "D) 1"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (+, -, *, /, %, //, **)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q3",
+      "question": "Which function is used to display output to the console in Python?",
+      "options": [
+        "A) output()",
+        "B) display()",
+        "C) print()",
+        "D) show()"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input/output with print() and input()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "How do you add a single-line comment in Python?",
+      "options": [
+        "A) // This is a comment",
+        "B) # This is a comment",
+        "C) <!-- This is a comment -->",
+        "D) /* This is a comment */"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comments and basic syntax",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q5",
+      "question": "Given the string `message = \"Hello\"`, what is the value of `message[1]`?",
+      "options": [
+        "A) H",
+        "B) e",
+        "C) l",
+        "D) o"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: indexing, slicing, len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q6",
+      "question": "Which of the following correctly creates an empty list named `my_list`?",
+      "options": [
+        "A) my_list = {}",
+        "B) my_list = []",
+        "C) my_list = ()",
+        "D) my_list = \"\""
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: creation, indexing, append, len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "What keyword is used to start an `if` statement block in Python?",
+      "options": [
+        "A) check",
+        "B) condition",
+        "C) if",
+        "D) when"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Conditional statements (if, elif, else)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q8",
+      "question": "What is the result of the comparison `5 > 3 and 2 < 1`?",
+      "options": [
+        "A) True",
+        "B) False",
+        "C) Error",
+        "D) None"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comparison and logical operators",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q9",
+      "question": "Which keyword is used to iterate over a sequence (like a list or string) in Python?",
+      "options": [
+        "A) loop",
+        "B) while",
+        "C) for",
+        "D) iterate"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (for, while)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "Which keyword is used to define a new function in Python?",
+      "options": [
+        "A) function",
+        "B) define",
+        "C) func",
+        "D) def"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: definition, parameters, return",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "In Python, which block of code is primarily used to catch and handle exceptions?",
+      "options": [
+        "A) try",
+        "B) catch",
+        "C) error",
+        "D) handle"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic error handling with try/except",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "What is the data type of the value `3.14` in Python?",
+      "options": [
+        "A) int",
+        "B) str",
+        "C) float",
+        "D) bool"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Variables and data types (int, float, str, bool)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "What is the output of `print(10 % 3)`?",
+      "options": [
+        "A) 3",
+        "B) 1",
+        "C) 0",
+        "D) 3.33"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic operators (+, -, *, /, %, //, **)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q14",
+      "question": "Which function is used to get input from the user in Python?",
+      "options": [
+        "A) get_input()",
+        "B) read()",
+        "C) input()",
+        "D) scan()"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Input/output with print() and input()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q15",
+      "question": "Given `word = \"Python\"`, what is the result of `len(word)`?",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) Error"
+      ],
+      "correct_index": 1,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Strings: indexing, slicing, len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q16",
+      "question": "Which method is used to add an item to the end of a list in Python?",
+      "options": [
+        "A) insert()",
+        "B) add()",
+        "C) extend()",
+        "D) append()"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Lists: creation, indexing, append, len()",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "In an `if-elif-else` structure, when is the code block under `else` executed?",
+      "options": [
+        "A) When the `if` condition is True.",
+        "B) When the `elif` condition is True.",
+        "C) When both `if` and `elif` conditions are False.",
+        "D) Always."
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Conditional statements (if, elif, else)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "What will be printed by the following code snippet?\npython\ncount = 0\nwhile count < 2:\n    print(count)\n    count += 1\n",
+      "options": [
+        "A) 0\\n1",
+        "B) 0\\n1\\n2",
+        "C) 1\\n2",
+        "D) 0"
+      ],
+      "correct_index": 0,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Basic loops (for, while)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "A Python function can return a value using which keyword?",
+      "options": [
+        "A) send",
+        "B) give",
+        "C) output",
+        "D) return"
+      ],
+      "correct_index": 3,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Functions: definition, parameters, return",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q20",
+      "question": "Which of these Python variable names is considered invalid according to standard syntax rules?",
+      "options": [
+        "A) my_variable",
+        "B) _score",
+        "C) 1st_place",
+        "D) userName"
+      ],
+      "correct_index": 2,
+      "selected_index": null,
+      "is_correct": false,
+      "topic": "Comments and basic syntax",
+      "difficulty": "easy"
+    }
+  ]
+}

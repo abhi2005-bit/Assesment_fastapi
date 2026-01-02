@@ -1,0 +1,18 @@
+{
+  "attempt_id": "51bbd9a2-b374-47cf-b886-cc5a630f970e",
+  "created_at": "2026-01-02T18:39:28",
+  "finalized_reason": "manual_submit",
+  "candidate": {
+    "name": "asdasd",
+    "branch": "asdasd",
+    "passing_year": 2025,
+    "university": "adsasd",
+    "programming_language": "Python",
+    "difficulty": "Easy",
+    "assessment_type": "MCQ only"
+  },
+  "test_config": {
+    "total_questions": 20,
+    "duration_seconds": 1200
+  }
+}

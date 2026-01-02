@@ -1,0 +1,18 @@
+{
+  "attempt_id": "b3ebe77f-42f6-4c6d-9bf9-3e563dc1897d",
+  "created_at": "2026-01-02T18:06:03",
+  "finalized_reason": "manual_submit",
+  "candidate": {
+    "name": "asd",
+    "branch": "ads",
+    "passing_year": 2025,
+    "university": "ads",
+    "programming_language": "Python",
+    "difficulty": "Easy",
+    "assessment_type": "MCQ only"
+  },
+  "test_config": {
+    "total_questions": 20,
+    "duration_seconds": 1200
+  }
+}
