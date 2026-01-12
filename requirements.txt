@@ -1,15 +1,8 @@
-streamlit==1.28.1
-google-generativeai>=0.3.2
-python-dotenv>=1.0.0
-groq>=0.5.0
-openai>=1.0.0
-streamlit-webrtc>=0.44.0
-opencv-python>=4.8.0
-mediapipe>=0.10.0
-numpy>=1.24.0
-
-# FastAPI and API dependencies
-fastapi>=0.104.0
-uvicorn>=0.24.0
-pydantic>=2.0.0
-python-multipart>=0.0.6
+fastapi
+uvicorn
+pydantic
+python-dotenv
+groq
+pytest
+pytest-cov
+httpx

@@ -138,7 +138,7 @@ def providers():
 def start_assessment(user: UserContextModel):
     session_id = str(uuid.uuid4())
 
-    users[user.user_id] = user.dict()
+    users[user.user_id] = user.model_dump()
 
     sessions[session_id] = {
         "user_id": user.user_id,
@@ -170,8 +170,8 @@ def delete_assessment(session_id: str):
 
 @app.post("/api/questions/generate")
 def generate_question(req: QuestionRequest):
-    user_ctx = UserContext(**req.user_context.dict())
-    visual = VisualCues(**req.visual_cues.dict()) if req.visual_cues else None
+    user_ctx = UserContext(**req.user_context.model_dump())
+    visual = VisualCues(**req.visual_cues.model_dump()) if req.visual_cues else None
 
     question = agent.generate_adaptive_question(
         user_ctx, visual, req.preferred_topics
@@ -191,7 +191,7 @@ def generate_question(req: QuestionRequest):
 
 @app.post("/api/questions/simple")
 def simple_question(topic: str = "basics"):
-    q = agent._fallback_question(topic, DifficultyLevel.EASY)
+    q = agent._generate_fallback_question(topic, DifficultyLevel.EASY)
     return {
         "question": q.question_text,
         "options": q.options,
@@ -203,7 +203,7 @@ def simple_question(topic: str = "basics"):
 def batch_generate(count: int = 5, topic: str = "basics"):
     questions = []
     for _ in range(count):
-        q = agent._fallback_question(topic, DifficultyLevel.EASY)
+        q = agent._generate_fallback_question(topic, DifficultyLevel.EASY)
         questions.append({
             "question": q.question_text,
             "options": q.options,
